@@ -1,4 +1,4 @@
-1. Install Anaconda3, create virtual environment and install following packages:
+#1. Install Anaconda3, create virtual environment and install following packages:
 
 conda create --name name
 conda install python=3.6
@@ -10,7 +10,7 @@ conda install -c anaconda pandas
 conda install -c anaconda pillow
 
 
-2. Open Project
+#2. Open Project
 (Folders readoct, imageprocessing, movingFiles, training containing *.py Files)
 
 readoct
